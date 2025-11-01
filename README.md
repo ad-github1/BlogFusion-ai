@@ -2,13 +2,13 @@
 
 Unleash your stories with the power of AI . **BlogFusion** is a modern, full-stack blogging platform built with the MERN stack—supercharged with intelligent assistance to make writing, editing, and sharing your blogs easier and more inspiring than ever!
 
----
+
 
 ##  Live Demo
 
  [Experience BlogFusion Live!](https://58bf4e94-d274-4e49-8ddf-c7ef528193cc-00-1ev21orjlta9n.riker.replit.dev/) 
 
----
+
 
 ##  Features
 
@@ -21,7 +21,7 @@ Unleash your stories with the power of AI . **BlogFusion** is a modern, full-sta
 - **Categories & Tags**: Organize your content for maximum reach and clarity.
 - **Cloud Database**: All data securely stored in MongoDB (or in-memory for demo).
 
----
+
 
 ##  Tech Stack
 
@@ -32,7 +32,7 @@ Unleash your stories with the power of AI . **BlogFusion** is a modern, full-sta
 - **State & Data Fetching**: @tanstack/react-query
 - **Other**: TypeScript, Zod, Drizzle ORM
 
----
+
 
 ##  Getting Started
 
@@ -68,14 +68,11 @@ Unleash your stories with the power of AI . **BlogFusion** is a modern, full-sta
 
 > You can deploy instantly via [Replit](https://replit.com/) or any Node.js hosting platform!
 
----
 
 ##  Screenshots
 <img width="1280" height="730" alt="Screenshot 2025-11-02 at 00 19 54" src="https://github.com/user-attachments/assets/d6b08777-16bb-4191-bf55-384ef766f570" />
 
 <img width="1280" height="730" alt="Screenshot 2025-11-02 at 00 20 41" src="https://github.com/user-attachments/assets/faf161ef-9c6b-4a90-8f39-0c2b453e6a9b" />
-
-
 
 
 ##  How AI Assists You
@@ -84,17 +81,6 @@ Unleash your stories with the power of AI . **BlogFusion** is a modern, full-sta
 - **Expand Content**: Add depth and detail to your articles automatically.
 - **Summarize**: Generate concise summaries for quick reads.
 
----
 
-## Contributing
-
-Contributions are welcome! Please open issues or pull requests to discuss improvements, features, or bug fixes. See [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
-
-
-## 📄 License
-
-MIT License
-
----
 
 > **BlogFusion** – Where your ideas meet intelligent creativity!  
