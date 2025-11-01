@@ -39,7 +39,7 @@ Unleash your stories with the power of AI . **BlogFusion** is a modern, full-sta
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/ad-github1/BlogFusion-ai.git
-   cd BlogFusion
+   cd BlogFusion-ai
    ```
 
 2. **Install dependencies:**
