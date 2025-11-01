@@ -1,16 +1,16 @@
-# BlogFusion 🚀 | Full-Stack AI-Powered Blogging Platform
+# BlogFusion | Full-Stack AI-Powered Blogging Platform
 
-Unleash your stories with the power of AI ✨. **BlogFusion** is a modern, full-stack blogging platform built with the MERN stack—supercharged with intelligent assistance to make writing, editing, and sharing your blogs easier and more inspiring than ever!
-
----
-
-## 🌟 Live Demo
-
-👉 [Experience BlogFusion Live!](https://58bf4e94-d274-4e49-8ddf-c7ef528193cc-00-1ev21orjlta9n.riker.replit.dev/) 👈
+Unleash your stories with the power of AI . **BlogFusion** is a modern, full-stack blogging platform built with the MERN stack—supercharged with intelligent assistance to make writing, editing, and sharing your blogs easier and more inspiring than ever!
 
 ---
 
-## ✨ Features
+##  Live Demo
+
+ [Experience BlogFusion Live!](https://58bf4e94-d274-4e49-8ddf-c7ef528193cc-00-1ev21orjlta9n.riker.replit.dev/) 
+
+---
+
+##  Features
 
 - **AI Writing Assistant**: Instantly improve, expand, or summarize your posts using state-of-the-art AI (OpenAI GPT-5).
 - **Beautiful Responsive UI**: Built with ReactJS and TailwindCSS—looks great on any device.
@@ -23,7 +23,7 @@ Unleash your stories with the power of AI ✨. **BlogFusion** is a modern, full-
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: ReactJS, TailwindCSS, Wouter (routing)
 - **Backend**: Node.js, Express.js, JWT, bcryptjs
@@ -34,12 +34,12 @@ Unleash your stories with the power of AI ✨. **BlogFusion** is a modern, full-
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/blogfusion.git
-   cd blogfusion
+   git clone https://github.com/ad-github1/BlogFusion-ai.git
+   cd BlogFusion
    ```
 
 2. **Install dependencies:**
@@ -70,15 +70,15 @@ Unleash your stories with the power of AI ✨. **BlogFusion** is a modern, full-
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
+<img width="1280" height="730" alt="Screenshot 2025-11-02 at 00 19 54" src="https://github.com/user-attachments/assets/d6b08777-16bb-4191-bf55-384ef766f570" />
 
-![BlogFusion Home](assets/screenshots/home.png)
-![AI Writing Assistant](assets/screenshots/ai-assist.png)
-![Dashboard](assets/screenshots/dashboard.png)
+<img width="1280" height="730" alt="Screenshot 2025-11-02 at 00 20 41" src="https://github.com/user-attachments/assets/faf161ef-9c6b-4a90-8f39-0c2b453e6a9b" />
 
----
 
-## 🤖 How AI Assists You
+
+
+##  How AI Assists You
 
 - **Improve Writing**: Enhance grammar, clarity, and engagement in a single click.
 - **Expand Content**: Add depth and detail to your articles automatically.
@@ -86,18 +86,10 @@ Unleash your stories with the power of AI ✨. **BlogFusion** is a modern, full-
 
 ---
 
-## 📝 Contributing
+## Contributing
 
 Contributions are welcome! Please open issues or pull requests to discuss improvements, features, or bug fixes. See [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
----
-
-## 🙌 Credits
-
-- Developed by [ad-github1](https://github.com/ad-github1)
-- Thanks to [Replit](https://replit.com/) for instant deployment and prototyping.
-
----
 
 ## 📄 License
 
